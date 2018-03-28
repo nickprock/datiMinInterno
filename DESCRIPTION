@@ -1,0 +1,10 @@
+Package: datiMinInterno
+Type: Package
+Title: scraper
+Version: 1.1
+Date: 2018-03-28
+Author: Nicola Procopio
+Maintainer: <nico.pro412@gmail.com>
+Imports: XML
+Description: download data table from Ministero dell'Interno
+License: GPL-3
