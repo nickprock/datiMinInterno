@@ -1,9 +1,9 @@
 # datiMinInterno
 scraper data about "FINANZA LOCALE: Certificati Consuntivi"
 # Version: 
-1.0
+1.1
 # Date: 
-2017-05-23
+2018-03-28
 # License: 
 GPL-3
 # Description
